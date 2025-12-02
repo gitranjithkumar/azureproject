@@ -1,0 +1,9 @@
+{
+	"name": "ranjuproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d797adfc-86cb-4462-8ab6-0d3f053f7c27",
+		"tenantId": "a374a017-251b-417d-b7cf-5986a5b9be7d"
+	}
+}
